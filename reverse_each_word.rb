@@ -14,7 +14,7 @@ def reverse_each_word(string)
   new_element = element.reverse
 
   final.push(new_element)
-  binding.pry 
+  binding.pry
 
  end
 final.join(" ")
